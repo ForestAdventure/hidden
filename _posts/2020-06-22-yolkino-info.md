@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: regulations
 title: QRогейн Ёлкино
 subtitle: Положение
 feature-img: "images/2020/map-part-yolkino.png" 
@@ -7,38 +7,6 @@ thumbnail: "images/2020/map-part-yolkino.png"
 tags: [Положение, Рогейн, QR, 2020]
 ---
 
-<style type="text/css">
-body {
-    counter-reset: h1
-}
-
-h1 {
-    counter-reset: h2
-}
-
-h2 {
-    counter-reset: h3
-}
-
-h3 {
-    counter-reset: h4
-}
-
-h2:before {
-    counter-increment: h2;
-    content: counter(h2) ". "
-}
-
-h3:before {
-    counter-increment: h3;
-    content: counter(h2) "." counter(h3) ". "
-}
-
-h4:before {
-    counter-increment: h4;
-    content: counter(h2) "." counter(h3) "." counter(h4) ". "
-}
-</style>
 
 Положение
 =========
