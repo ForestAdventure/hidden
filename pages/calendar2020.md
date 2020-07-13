@@ -17,7 +17,7 @@ QRогейн Ёлкино
 
 Одна из самых интересных местностей Подмосковья. Свободный старт.
 
-{% include button.html button_name="Положение" button_class="success" url="{{ site.baseurl }}/2020/06/22/yolkino-info.html" %}
+{% include button.html button_name="Положение" button_class="success" url="/2020/06/22/yolkino-info.html" %}
 {% include button.html button_name="Регистрация" button_class="success" url="https://iorient.ru/Register.aspx?CompetitionId=123" %}
 {% include button.html button_name="Результаты" button_class="success" url="https://iorient.ru/Competition.aspx?CompetitionId=123" %}
 
