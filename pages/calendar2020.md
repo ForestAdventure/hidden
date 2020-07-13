@@ -2,6 +2,7 @@
 layout: page
 title: Календарь
 permalink: /calendar2020/
+tags: [Календарь]
 ---
 
 Наши старты в этом году.
