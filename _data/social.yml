@@ -1,10 +1,11 @@
 # Icons on the footer
 rss: true
-email_address: semyon@forestadventure.ru    # Full email address, e.g. "sam@example.com"
+email_address: info@forestadventure.ru    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
+vkontakte: forestadventureru
 flickr:
 gitlab:
 github:

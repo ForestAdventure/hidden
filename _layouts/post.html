@@ -51,6 +51,25 @@ layout: default
   header#main { background-color: {{ page.color }} !important; }
   {% endif %}
 
+  {% if page.regulations %}
+  body { counter-reset: h1 }
+  h1 { counter-reset: h2 }
+  h2 { counter-reset: h3 }
+  h3 { counter-reset: h4 }
+  h2:before {
+    counter-increment: h2;
+    content: counter(h2) ". "
+  }
+  h3:before {
+    counter-increment: h3;
+    content: counter(h2) "." counter(h3) ". "
+  }
+  h4:before {
+    counter-increment: h4;
+    content: counter(h2) "." counter(h3) "." counter(h4) ". "
+  }
+  {% endif %}
+
   header#main {
     background-repeat:no-repeat;
   {% if page.feature-img %} background-image: url('{{ page.feature-img | relative_url }}');
