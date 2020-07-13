@@ -2,7 +2,6 @@
 layout: page
 title: О нас
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [О нас]
 ---
 
@@ -11,3 +10,5 @@ tags: [О нас]
 
 Email: [info@forestadventure.ru](mailto:info@forestadventure.ru)
  
+Страница ВКонтакте: [vk.com/forestadventureru](https://vk.com/forestadventureru)
+
