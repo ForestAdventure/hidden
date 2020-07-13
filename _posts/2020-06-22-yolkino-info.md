@@ -2,7 +2,7 @@
 layout: post
 title: QRогейн Ёлкино
 subtitle: Положение
-feature-img: "images/2020/logo-yolkino-200.png" 
+feature-img: "images/2020/map-part-yolkino.png" 
 thumbnail: "images/2020/logo-yolkino-200.png"
 ---
 
@@ -39,7 +39,10 @@ h4:before {
 }
 </style>
 
+Положение
 =========
+
+{% include aligner.html images="images/2020/logo-yolkino-200.png" %}
 
 Дата и место проведения
 -----------------------
