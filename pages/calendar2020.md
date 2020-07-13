@@ -19,6 +19,8 @@ QRогейн Ёлкино
 
 Одна из самых интересных местностей Подмосковья. Свободный старт.
 
+{% include button.html button_name="Положение" button_class="primary" %}
+
 Рогейн Forest Adventure
 -----------------------
 
