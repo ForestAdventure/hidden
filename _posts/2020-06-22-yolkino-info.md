@@ -42,7 +42,7 @@ h4:before {
 Положение
 =========
 
-{% include aligner.html images="images/2020/logo-yolkino-200.png" %}
+![logo]({{ "/images/2020/logo-yolkino-200.png" | relative_url }})
 
 Дата и место проведения
 -----------------------
