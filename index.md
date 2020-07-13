@@ -2,6 +2,7 @@
 layout: page
 title: Forest Adventure
 feature-img: "images/header-feature-image.jpg"
+hide: true
 ---
 
 QRогейн Ёлкино
