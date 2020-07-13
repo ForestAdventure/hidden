@@ -29,7 +29,7 @@ layout_variables:                                       # Open the "_sass > base
 footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
-language:                                               # In _data/language.yml
+language: ru                                            # In _data/language.yml
 
 # PAGINATION
 paginate: 5
