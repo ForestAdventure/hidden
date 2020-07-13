@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: home
 title: Новости
 permalink: /news/
 ---
-
-{% include blog.html %}
 
