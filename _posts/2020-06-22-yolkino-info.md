@@ -1,6 +1,7 @@
 ---
 layout: post
 title: QRогейн Ёлкино
+feature-img: "images/2020/logo-yolkino-200.png" 
 thumbnail: "images/2020/logo-yolkino-200.png"
 ---
 
