@@ -22,7 +22,7 @@ QRогейн Ёлкино
 [Регистрация](https://iorient.ru/Register.aspx?CompetitionId=123){: .btn .btn-primary}
 [Результаты](https://iorient.ru/Competition.aspx?CompetitionId=123){: .btn .btn-primary}
 
-[//]: # ({% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %})
+<!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
 Рогейн Forest Adventure
 -----------------------
