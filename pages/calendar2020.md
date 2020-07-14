@@ -3,6 +3,7 @@ layout: page
 title: Календарь
 permalink: /calendar2020/
 feature-img: "images/header-feature-image.jpg"
+bootstrap: true
 tags: [Календарь, "2020"]
 ---
 
