@@ -20,9 +20,9 @@ QRогейн Ёлкино
 
 [Положение]({{ "/2020/06/22/yolkino-info.html" | relative_url}}){: .btn .btn-primary}
 [Регистрация](https://iorient.ru/Register.aspx?CompetitionId=123){: .btn .btn-primary}
-{% include button.html button_name="Положение" button_class="primary" url="/2020/06/22/yolkino-info.html" %}
-{% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %}
-{% include button.html button_name="Результаты" button_class="primary" url="https://iorient.ru/Competition.aspx?CompetitionId=123" %}
+[Результаты](https://iorient.ru/Competition.aspx?CompetitionId=123){: .btn .btn-primary}
+
+[//]: # ({% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %})
 
 Рогейн Forest Adventure
 -----------------------
