@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Рогейн Forest Adventure
+title: Рогейн Forest Adventure 2020
 regulations: true
 tags: [Положение, Рогейн, "2020"]
 ---
