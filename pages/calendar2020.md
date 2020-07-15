@@ -7,7 +7,7 @@ bootstrap: true
 tags: [Календарь, "2020"]
 ---
 
-# <div style="float:left;" markdown="1">
+<h1><div style="float:left;" markdown="1">
 ![logo]({{ "/images/2020/logo-yolkino-100.png" | relative_url }})
 QRогейн Ёлкино
 </div>
