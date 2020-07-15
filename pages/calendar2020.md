@@ -7,6 +7,7 @@ bootstrap: true
 tags: [Календарь, "2020"]
 ---
 
+![logo]({{ "/images/2020/logo-yolkino-100.png" | relative_url }})
 QRогейн Ёлкино
 --------------
 
@@ -24,6 +25,7 @@ QRогейн Ёлкино
 
 <!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
+![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})
 Рогейн Forest Adventure
 -----------------------
 
@@ -38,6 +40,7 @@ QRогейн Ёлкино
 [Положение]({{ "/2020/07/16/fa-regulations.html" | relative_url}}){: .btn .btn-primary}
 [Регистрация](https://orgeo.ru/event/fa2020){: .btn .btn-primary}
 
+![logo]({{ "/images/2020/logo-bno-black-100.jpg" | relative_url }})
 Большое ночное ориентирование
 -----------------------------
 
