@@ -3,10 +3,11 @@ layout: post
 title: Рогейн Forest Adventure 2020
 feature-img: "images/header-feature-image.png"
 thumbnail: "images/2020/forest-hor-thumb.jpg"
-color: rgb(36,71,51)
 regulations: true
 tags: [Положение, Рогейн, "2020"]
 ---
+
+<!--color: rgb(36,112,68)-->
 
 Положение
 =========
