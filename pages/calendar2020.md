@@ -27,6 +27,7 @@ tags: [Календарь, "2020"]
 
 <!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
+
 <div style="float:left;" markdown="1">
 ![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})
 </div>
