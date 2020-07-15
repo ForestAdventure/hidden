@@ -13,7 +13,7 @@ tags: [О нас]
 Контакты
 --------
 
-<i class="fa fa-lg fa-telegram" aria-hidden="true"></i> <https://t.me/semyon_ya>
+<i class="fa fa-lg fa-telegram" aria-hidden="true"></i> <https://t.me/semyon_y>
 
 <i class="fa fa-lg fa-envelope" aria-hidden="true"></i> [info@forestadventure.ru](mailto:info@forestadventure.ru)
  
