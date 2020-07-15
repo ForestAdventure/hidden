@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Рогейн Forest Adventure 2020
+feature-img: "images/forest-hor.jpg"
 regulations: true
 tags: [Положение, Рогейн, "2020"]
 ---
