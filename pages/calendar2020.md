@@ -9,8 +9,9 @@ tags: [Календарь, "2020"]
 
 <h1><div style="float:left;" markdown="1">
 ![logo]({{ "/images/2020/logo-yolkino-100.png" | relative_url }})
+</div>
 QRогейн Ёлкино
-</div></h1>
+</h1>
 
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> С 24 июня по 19 июля.
 
@@ -26,11 +27,11 @@ QRогейн Ёлкино
 
 <!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
-#
-<div style="float:left;" markdown="1">
+<h1><div style="float:left;" markdown="1">
 ![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})
-Рогейн Forest Adventure
 </div>
+Рогейн Forest Adventure
+</h1>
 
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> 29 августа
 
