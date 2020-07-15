@@ -7,10 +7,10 @@ bootstrap: true
 tags: [Календарь, "2020"]
 ---
 
-<h1> <div style="float:left;" markdown="1">
+# <div style="float:left;" markdown="1">
 ![logo]({{ "/images/2020/logo-yolkino-100.png" | relative_url }})
 QRогейн Ёлкино
-</h1></div>
+</div>
 
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> С 24 июня по 19 июля.
 
