@@ -2,7 +2,7 @@
 layout: post
 title: Рогейн Forest Adventure 2020
 feature-img: "images/header-feature-image.png"
-thumbnail: "images/forest-hor-thumb.jpg"
+thumbnail: "images/2020/forest-hor-thumb.jpg"
 regulations: true
 tags: [Положение, Рогейн, "2020"]
 ---
