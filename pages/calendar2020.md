@@ -26,8 +26,11 @@ QRогейн Ёлкино
 
 <!-- {% include button.html button_name="Регистрация" button_class="primary" url="https://iorient.ru/Register.aspx?CompetitionId=123" %} -->
 
-<!--![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})-->
-# Рогейн Forest Adventure
+#
+<div style="float:left;" markdown="1">
+![logo]({{ "/images/2020/logo-fa-100.jpg" | relative_url }})
+Рогейн Forest Adventure
+</div>
 
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> 29 августа
 
