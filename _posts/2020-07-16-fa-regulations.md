@@ -326,13 +326,11 @@ tags: [Положение, Рогейн, "2020"]
 
 [info@forestadventure.ru](mailto:info@forestadventure.ru)
 
-**Страницы рогейна в сети Интернет:**
+Официальный сайт рогейна <http://forestadventure.ru>
 
-Сайт <http://forestadventure.ru>
-
-ВКонтакте <https://vk.com/forestadventureru>
+Страница ВКонтакте <https://vk.com/forestadventureru>
 
 Канал в Telegram <https://t.me/forestadventure>
 
-Приглашаем спонсоров к сотрудничеству.
+Приглашаем спонсоров к сотрудничеству!
 
