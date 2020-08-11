@@ -14,6 +14,7 @@ tags: [Календарь, "2020"]
 # QRогейн Ёлкино
 
 <br>
+<br>
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> С 24 июня по 19 июля.
 
 <i class="fa fa-lg fa-map-marker" aria-hidden="true"></i> Деревня Ёлкино, Воскресенский ГО.
