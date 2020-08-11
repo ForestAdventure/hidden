@@ -12,7 +12,7 @@ tags: [Календарь, "2020"]
 </div>
 
 # QRогейн Ёлкино
-
+# 
 
 <i class="fa fa-lg fa-calendar-o" aria-hidden="true"></i> С 24 июня по 19 июля.
 
